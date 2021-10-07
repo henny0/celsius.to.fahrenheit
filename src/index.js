@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import TemperatureBox from "./components/TemperatureBox";
+import TemperatureBox from "./Components/TemperatureBox";
 
 class Converter extends React.Component {
   constructor(props) {

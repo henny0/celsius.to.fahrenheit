@@ -1,7 +1,6 @@
 {
   "name": "celsius.to.fahrenheit",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "react": "^17.0.2",
@@ -26,5 +25,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": ""
 }
